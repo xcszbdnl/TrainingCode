@@ -1,0 +1,1967 @@
+# depslib dependency file v1.0
+1399651243 source:e:\newcode\train\poj3278.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1400158643 source:e:\newcode\train\ural1008.cpp
+	<cstdio>
+	<cstring>
+
+1400216977 source:e:\newcode\train\codeforces_198_d.cpp
+	<cstdio>
+	<cstring>
+
+1400563306 source:e:\newcode\train\codeforces_1_b.cpp
+	<cstdio>
+	<cstring>
+
+1400635073 source:e:\newcode\train\poj1753.cpp
+	<cstdio>
+	<cstring>
+
+1400647425 source:e:\newcode\train\poj2965.cpp
+	<cstdio>
+	<cstring>
+
+1400672534 source:e:\newcode\train\codeforces_2_a.cpp
+	<cstdio>
+	<cstring>
+	<map>
+	<string>
+	<iostream>
+
+1400676929 source:e:\newcode\train\poj1068.cpp
+	<cstdio>
+	<cstring>
+
+1400727991 source:e:\newcode\train\codeforces_2_b.cpp
+	<cstdio>
+	<cstring>
+
+1400762148 source:e:\newcode\train\codeforces_3_b.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<algorithm>
+
+1400764498 source:e:\newcode\train\codeforces_3_c.cpp
+	<cstdio>
+	<cstring>
+
+1400861054 source:e:\newcode\train\codeforces_3_d.cpp
+	<cstdio>
+	<cstring>
+	<queue>
+	<iostream>
+	<iostream>
+
+1400918655 source:e:\newcode\train\codeforces_248_1.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<iostream>
+	<algorithm>
+
+1401268730 source:e:\newcode\train\codeforces_240_3.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<iostream>
+
+1401276409 source:e:\newcode\train\codeforces_4_b.cpp
+	<cstdio>
+	<cstring>
+
+1401463010 source:e:\newcode\train\codeforces_245_a.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1401465551 source:e:\newcode\train\codeforces_245_b.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1401869204 source:e:\newcode\train\codefroces_250_a.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<algorithm>
+
+1402230056 source:e:\newcode\train\codefroces_250_b.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<algorithm>
+
+1403362570 source:e:\newcode\train\codeforces_rush_2014_a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1403066549 source:e:\newcode\train\codeforces_rush_2014_b.cpp
+	<cstdio>
+	<cstring>
+
+1403524994 source:e:\newcode\train\codeforces_rush_2014_c.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+
+1403526807 source:e:\newcode\train\ural1017.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1403536423 source:e:\newcode\train\hdu3033.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1403835755 source:e:\newcode\train\poj1182.cpp
+	<cstdio>
+	<cstring>
+
+1403884200 source:e:\newcode\train\ural1003.cpp
+	<cstdio>
+	<cstring>
+	<map>
+	<algorithm>
+
+1404029421 source:e:\newcode\train\ural1004.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1404034252 source:e:\newcode\train\codeforces_253_a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1404056220 source:e:\newcode\train\ural1054.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1404205230 source:e:\newcode\train\ural1072.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1404225003 source:e:\newcode\train\ural1077.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1404227576 source:e:\newcode\train\ural1076.cpp
+	<cstdio>
+	<cstring>
+
+1404268097 source:e:\newcode\train\ural1080.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1404368491 source:e:\newcode\train\ural1085.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1405259075 source:e:\code\acm\train\codeforces_255_a.cpp
+	<cstdio>
+	<cstring>
+
+1405269694 source:e:\code\acm\train\codeforces_255_b.cpp
+	<cstdio>
+	<cstring>
+	<queue>
+	<iostream>
+
+1405275334 source:e:\code\acm\train\codeforces_5_a.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1405348201 source:e:\code\acm\train\codeforces_14_b.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1405915608 source:e:\code\acm\train\ural1019.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1405775007 source:e:\code\acm\train\codeforces_257_a.cpp
+	<cstdio>
+	<cstring>
+	<queue>
+
+1405823473 source:e:\code\acm\train\codeforces_257_b.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1405778049 source:e:\code\acm\train\codeforces_257_c.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1405781194 source:e:\code\acm\train\codeforces_257_d.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1405863472 source:e:\code\acm\competition\hust_7_20\f.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+
+1405868126 source:e:\code\acm\competition\hust_7_20\i.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1405921308 source:e:\code\acm\competition\hust_7_21\c.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1405924150 source:e:\code\acm\competition\hust_7_21\f.cpp
+	<cstdio>
+	<cstring>
+
+1405927316 source:e:\code\acm\competition\hust_7_21\h.cpp
+	<cstdio>
+	<cstring>
+
+1405930164 source:e:\code\acm\competition\hust_7_21\g.cpp
+	<cstdio>
+	<cstring>
+
+1405934015 source:e:\code\acm\train\ural1028.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1405940795 source:e:\code\acm\train\ural1090.cpp
+	<cstdio>
+	<cstring>
+
+1405943906 source:e:\code\acm\train\ural1037.cpp
+	<cstdio>
+	<cstring>
+	<queue>
+
+1405946191 source:e:\code\acm\train\ural1067.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<algorithm>
+
+1405948034 source:e:\code\acm\train\ural1126.cpp
+	<cstdio>
+	<cstring>
+
+1406006104 source:e:\code\acm\competition\duoxiao_7_22\1001.cpp
+	<cstdio>
+	<cstring>
+
+1406014477 source:e:\code\acm\competition\duoxiao_7_22\1004.cpp
+	<cstdio>
+	<cstring>
+	<queue>
+	<vector>
+	<algorithm>
+	<set>
+	<iostream>
+
+1406032048 source:e:\code\acm\competition\duoxiao_7_22\temp1004.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1406028606 source:e:\code\acm\competition\topcoder\a.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+
+1406091965 source:e:\code\acm\competition\hust_7_23\a.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<stack>
+
+1406102043 source:e:\code\acm\competition\hust_7_23\g.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+
+1406100917 source:e:\code\acm\competition\hust_7_23\tempg.cpp
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<cmath>
+
+1406107709 source:e:\code\acm\competition\hust_7_23\h.cpp
+	<cstdio>
+	<cstring>
+
+1406115517 source:e:\code\acm\competition\hust_7_23\b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1406121691 source:e:\code\acm\competition\hust_7_23\k.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1406175666 source:e:\code\acm\competition\duoxiao_7_24\1011.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1406184033 source:e:\code\acm\train\ural\ural1049.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+
+1406188496 source:e:\code\acm\train\ural\ural1220.cpp
+	<cstdio>
+	<cstring>
+	<stack>
+
+1406204999 source:e:\code\acm\train\ural\ural1414.cpp
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+	<iostream>
+	<algorithm>
+
+1406215927 source:e:\code\acm\train\codeforces_258_a.cpp
+	<cstdio>
+	<cstring>
+
+1406216752 source:e:\code\acm\train\codeforces_258_b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1406218646 source:e:\code\acm\train\codeforces_258_c.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1406281336 source:e:\code\acm\train\ural\ural1439.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<stdlib.h>
+
+1406285372 source:e:\code\acm\train\ural\ural1439_a.cpp
+	<cstdio>
+	<cstring>
+
+1406290023 source:e:\code\acm\train\codeforces_258_d.cpp
+	<cstring>
+	<cstdio>
+	<iostream>
+	<string>
+
+1406292817 source:e:\code\acm\train\ural\ural1470.cpp
+	<cstdio>
+	<cstring>
+
+1406350839 source:e:\code\acm\competition\hust_7_26\a.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<algorithm>
+	<cmath>
+
+1406351234 source:e:\code\acm\competition\hust_7_26\b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<iostream>
+
+1406356144 source:e:\code\acm\competition\hust_7_26\temp_b.cpp
+	<cstdio>
+	<cstring>
+
+1406374032 source:e:\code\acm\competition\hust_7_26\c.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+	<algorithm>
+
+1406382534 source:e:\code\acm\competition\hust_7_26\e.cpp
+	<cstdio>
+	<cstring>
+	<string>
+	<algorithm>
+	<iostream>
+
+1406436890 source:e:\code\acm\competition\hust_7_27\i.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<string>
+	<iostream>
+
+1406439096 source:e:\code\acm\competition\hust_7_27\h.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1406444454 source:e:\code\acm\competition\hust_7_27\c.cpp
+	<cstdio>
+	<cstring>
+
+1406461457 source:e:\code\acm\competition\hust_7_27\g.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1406523088 source:e:\code\acm\train\ural\ural1471.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1406527844 source:e:\code\acm\train\ural\ural1494.cpp
+	<cstdio>
+	<cstring>
+	<stack>
+
+1406537848 source:e:\code\acm\train\acm解题报告\template.cpp
+	<cstring>
+	<cstdio>
+	<string>
+	<map>
+
+1406547357 source:e:\code\acm\train\ural\ural1523.cpp
+	<cstdio>
+	<cstring>
+
+1406551602 source:e:\code\acm\train\ural\ural1542.cpp
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+	<queue>
+	<string>
+	<map>
+	<iostream>
+
+1406607978 source:e:\code\acm\competition\duoxiao_7_29\j.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1406623092 source:e:\code\acm\competition\duoxiao_7_29\e.cpp
+	<cstdio>
+	<cstring>
+	<string>
+	<iostream>
+
+1406631368 source:e:\code\acm\competition\duoxiao_7_29\1007.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1409536062 source:e:\code\acm\competition\duoxiao_7_29\1002.cpp
+	<cstdio>
+	<cstring>
+
+1406647233 source:e:\code\acm\train\codeforces_236_a.cpp
+	<cstdio>
+	<cstring>
+
+1406689275 source:e:\code\acm\train\spoj375.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1406696884 source:e:\code\acm\competition\hust_7_30\i.cpp
+	<cstdio>
+	<cstring>
+	<map>
+
+1406696117 source:e:\code\acm\competition\hust_7_30\g.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1406721738 source:e:\code\acm\competition\hust_7_30\c.cpp
+	<cstdio>
+	<cstring>
+	<map>
+	<iostream>
+	<algorithm>
+	<vector>
+
+1406717346 source:e:\code\acm\train\ural\ural1553.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1406724072 source:e:\code\acm\train\ural\ural1613.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1406785529 source:e:\code\acm\competition\duoxiao_7_31\1005.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<map>
+
+1406790020 source:e:\code\acm\competition\duoxiao_7_31\a.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<map>
+
+1406793026 source:e:\code\acm\competition\duoxiao_7_31\1006.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1406797650 source:e:\code\acm\competition\duoxiao_7_31\1009.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<map>
+
+1406807051 source:e:\code\acm\train\poj3744.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1406810948 source:e:\code\acm\train\poj3071.cpp
+	<cstdio>
+	<cstring>
+
+1406824700 source:e:\code\acm\train\memsql_a.cpp
+	<cstdio>
+	<cstring>
+
+1406825397 source:e:\code\acm\train\memsql_b.cpp
+	<cstdio>
+	<cstring>
+
+1406871670 source:e:\code\acm\train\codeforces_105_d.cpp
+	<cstdio>
+	<cstring>
+
+1406875093 source:e:\code\acm\train\poj2151.cpp
+	<cstdio>
+	<cstring>
+
+1406877141 source:e:\code\acm\train\codeforces_6_a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1406878291 source:e:\code\acm\train\codeforces_6_b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1406879642 source:e:\code\acm\train\codeforces_6_c.cpp
+	<cstdio>
+	<cstring>
+
+1406885981 source:e:\code\acm\train\codeforces_6_d.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<algorithm>
+
+1406893247 source:e:\code\acm\train\sgu495.cpp
+	<cstdio>
+	<cstring>
+
+1406897271 source:e:\code\acm\train\hdu4096.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1406907488 source:e:\code\acm\train\codeforces_259_a.cpp
+	<cstdio>
+	<cstring>
+
+1406907966 source:e:\code\acm\train\codeforces_259_b.cpp
+	<cstdio>
+	<cstring>
+
+1406911311 source:e:\code\acm\train\codeforces_259_c.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+
+1406960343 source:e:\code\acm\competition\hust_8_2\j.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1406957317 source:e:\code\acm\competition\hust_8_2\c.cpp
+	<cstdio>
+	<cstring>
+
+1406961768 source:e:\code\acm\competition\hust_8_2\i.cpp
+	<cstdio>
+	<cstring>
+
+1406971966 source:e:\code\acm\competition\hust_8_2\d.cpp
+	<cstdio>
+	<cstring>
+
+1406982455 source:e:\code\acm\train\codeforces_259_d.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+
+1406996782 source:e:\code\acm\train\codeforces_243_a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1407041388 source:e:\code\acm\competition\hust_8_3\g.cpp
+	<cstdio>
+	<cstring>
+
+1407044660 source:e:\code\acm\competition\hust_8_3\j.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1407243556 source:e:\code\acm\competition\hust_8_3\i.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+	<algorithm>
+
+1407129439 source:e:\code\acm\train\uva11542.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<iostream>
+
+1407132281 source:e:\code\acm\train\poj1222.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1407134676 source:e:\code\acm\train\zoj3415.cpp
+	<cstdio>
+	<iostream>
+
+1407140697 source:e:\code\acm\train\codeforces_228_a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+
+1416149994 source:e:\code\acm\train\codeforces_228_b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<cmath>
+
+1407156546 source:e:\code\acm\train\hdu4870.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+
+1407159686 source:e:\code\acm\merge\hack.cpp
+	<cstdio>
+	<cstring>
+	<stdlib.h>
+
+1407214112 source:e:\code\acm\competition\duoxiao_8_5\1010.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<iostream>
+
+1407220460 source:e:\code\acm\competition\duoxiao_8_5\1005.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1407240500 source:e:\code\acm\competition\duoxiao_8_5\1006.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1407295928 source:e:\code\acm\competition\hust_8_3\i_modui.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+
+1407300966 source:e:\code\acm\competition\hust_8_6\c.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+
+1407303232 source:e:\code\acm\competition\hust_8_6\f.cpp
+	<cstdio>
+	<cstring>
+
+1407306183 source:e:\code\acm\competition\hust_8_6\h.cpp
+	<cstdio>
+	<cstring>
+	<string>
+	<map>
+	<algorithm>
+	<vector>
+	<iostream>
+
+1407312542 source:e:\code\acm\train\hdu3853.cpp
+	<cstdio>
+	<cstring>
+
+1407315730 source:e:\code\acm\train\hysbz2038.cpp
+	<cstdio>
+	<cstring>
+	<map>
+	<cmath>
+	<algorithm>
+
+1407331412 source:e:\code\acm\train\codeforces_223_a.cpp
+	<cstdio>
+	<cstring>
+	<map>
+
+1407387710 source:e:\code\acm\competition\duoxiao_8_7\1007.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1407415397 source:e:\code\acm\competition\duoxiao_8_7\1010.cpp
+	<cstdio>
+	<cstring>
+
+1407418817 source:e:\code\acm\competition\duoxiao_8_7\1003.cpp
+	<cstdio>
+	<cstring>
+	<stack>
+
+1407484575 source:e:\code\acm\train\hdu4689.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1407486812 source:e:\code\acm\parttime\a.cpp
+	<cstdio>
+	<cstring>
+
+1407501316 source:e:\code\acm\train\hdu4405.cpp
+	<cstdio>
+	<cstring>
+
+1407503874 source:e:\code\acm\train\zoj3640.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+	<algorithm>
+
+1407512101 source:e:\code\acm\train\codeforces_260_a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1407513002 source:e:\code\acm\train\codeforces_260_b.cpp
+	<cstdio>
+	<cstring>
+
+1407518422 source:e:\code\acm\train\codeforces_260_c.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<iostream>
+
+1407553673 source:e:\code\acm\train\codeforces_260_a - 副本 (2).cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<iostream>
+
+1407553799 source:e:\code\acm\train\codeforces_260_d.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<iostream>
+
+1407590377 source:e:\code\acm\competition\hust_8_9\h.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+	<iostream>
+	<algorithm>
+
+1407570406 source:e:\code\acm\competition\hust_8_9\g.cpp
+	<bits/stdc++.h>
+
+1407586318 source:e:\code\acm\competition\hust_8_9\c.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1407638573 source:e:\code\acm\train\hdu4336.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+
+1407645811 source:e:\code\acm\competition\hust_8_10\h.cpp
+	<cstdio>
+	<cstring>
+
+1407650330 source:e:\code\acm\competition\hust_8_10\b.cpp
+	<cstdio>
+	<cstring>
+
+1407811458 source:e:\code\acm\competition\hust_8_10\f.cpp
+	<cstdio>
+	<cstring>
+	<stack>
+
+1407668504 source:e:\code\acm\train\bestcoder_4_a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1407675947 source:e:\code\acm\train\bestcoder_4_b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<iostream>
+	<cmath>
+
+1407727083 source:e:\code\acm\train\ural\ural1890.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<iostream>
+
+1407736998 source:e:\code\acm\train\zoj3329.cpp
+	<cstdio>
+	<cstring>
+
+1407744241 source:e:\code\acm\train\ural\ural1776.cpp
+	<cstdio>
+	<cstring>
+	<set>
+	<vector>
+
+1407758729 source:e:\code\acm\train\ural\ural1701.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1407847062 source:e:\code\acm\train\ural\ural1682.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1407822997 source:e:\code\acm\competition\duoxiao_8_12\1007.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<set>
+	<map>
+	<algorithm>
+
+1407827968 source:e:\code\acm\competition\duoxiao_8_12\1003.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+
+1407829469 source:e:\code\acm\competition\duoxiao_8_12\1010.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1407834571 source:e:\code\acm\competition\duoxiao_8_12\1001.cpp
+	<map>
+	<cstring>
+	<cstdio>
+	<cmath>
+
+1407906639 source:e:\code\acm\competition\hust_8_13\i.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1407911354 source:e:\code\acm\competition\hust_8_13\h.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<map>
+
+1407912162 source:e:\code\acm\competition\hust_8_13\f.cpp
+	<bits/stdc++.h>
+
+1407914160 source:e:\code\acm\competition\hust_8_13\temp_h.cpp
+	<cstring>
+	<iostream>
+	<cstdio>
+	<cmath>
+	<vector>
+	<algorithm>
+	<map>
+	<queue>
+
+1407922153 source:e:\code\acm\competition\hust_8_13\g.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1407991469 source:e:\code\acm\competition\duoxiao_8_14\1006.cpp
+	<iostream>
+	<cstdio>
+
+1408014906 source:e:\code\acm\competition\duoxiao_8_14\1008.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+	<cstdlib>
+
+1408085707 source:e:\code\acm\competition\duoxiao_8_14\1008 - 副本.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1408024054 source:e:\code\acm\competition\duoxiao_8_14\1001.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+	<ctime>
+
+1408688421 source:e:\code\acm\train\hdu1402.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+	<stack>
+	<algorithm>
+
+1408117000 source:e:\code\acm\train\codeforces_261_a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1408117316 source:e:\code\acm\train\codeforces_261_b.cpp
+	<cstdio>
+	<cstring>
+	<map>
+	<algorithm>
+	<iostream>
+
+1408119036 source:e:\code\acm\train\codeforces_261_c.cpp
+	<cstdio>
+	<cstring>
+
+1408119979 source:e:\code\acm\train\codeforces_261_d.cpp
+	<cstdio>
+	<cstring>
+	<map>
+	<iostream>
+
+1408204493 source:e:\code\acm\train\codeforces_261_e.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<algorithm>
+
+1408181095 source:e:\code\acm\competition\hust_8_16\a.cpp
+	<cstdio>
+	<cstring>
+
+1408195844 source:e:\code\acm\competition\hust_8_16\b.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<algorithm>
+
+1408194127 source:e:\code\acm\competition\hust_8_16\c.cpp
+	<cstdio>
+	<cstring>
+
+1408539668 source:e:\code\acm\competition\hust_8_20\e.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1408522443 source:e:\code\acm\competition\hust_8_20\a.cpp
+	<iostream>
+	<sstream>
+	<cstdio>
+	<climits>
+	<ctime>
+	<cctype>
+	<cstring>
+	<cstdlib>
+	<string>
+	<stack>
+	<set>
+	<map>
+	<cmath>
+	<vector>
+	<queue>
+	<algorithm>
+
+1408525429 source:e:\code\acm\competition\hust_8_20\i_1.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+
+1408548729 source:e:\code\acm\train\codeforces_262_a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<iostream>
+
+1408550327 source:e:\code\acm\train\codeforces_262_b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<iostream>
+	<vector>
+
+1408551429 source:e:\code\acm\train\codeforces_262_c.cpp
+	<cstdio>
+	<cstring>
+
+1408589651 source:e:\code\acm\train\codeforces_262_d.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<map>
+
+1409536525 source:e:\code\acm\competition\duoxiao_8_21\1005.cpp
+	<cstdio>
+	<cstring>
+
+1408605347 source:e:\code\acm\competition\duoxiao_8_21\1002.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+
+1408617232 source:e:\code\acm\competition\duoxiao_8_21\1003.cpp
+	<cstdio>
+	<cstring>
+
+1408625450 source:e:\code\acm\competition\duoxiao_8_21\1001.cpp
+	<cstdio>
+	<cstring>
+	<map>
+	<vector>
+	<algorithm>
+
+1408690115 source:e:\code\acm\train\hdu4609.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+
+1408698977 source:e:\code\acm\train\ural\ural1996.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+	<algorithm>
+	<vector>
+
+1408703992 source:e:\code\acm\train\bnu34990.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+
+1408707897 source:e:\code\acm\train\la4671.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+
+1408797926 source:e:\code\acm\train\hdu3507.cpp
+	<cstdio>
+	<cstring>
+
+1408769346 source:e:\code\acm\competition\hust_8_23\i.cpp
+	<cstdio>
+	<cstring>
+
+1408771522 source:e:\code\acm\competition\hust_8_23\a.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+
+1408800488 source:e:\code\acm\competition\hust_8_23\f.cpp
+	<cstdio>
+	<cstring>
+	<queue>
+	<cmath>
+
+1408784056 source:e:\code\acm\competition\hust_8_23\g.cpp
+	<cstdio>
+	<cstring>
+	<set>
+	<map>
+	<cmath>
+
+1410526014 source:e:\code\acm\train\ural\ural1077.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1408863541 source:e:\code\acm\competition\hust_8_24\j.cpp
+	<cstdio>
+	<cstring>
+
+1408859957 source:e:\code\acm\competition\hust_8_24\i.cpp
+	<cstdio>
+	<cstring>
+
+1408871843 source:e:\code\acm\competition\hust_8_24\c.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+
+1408879763 source:e:\code\acm\train\bestcoder_5_b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+
+1408882548 source:e:\code\acm\train\bestcoder_5_c.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+	<map>
+
+1409062001 source:e:\code\acm\train\codeforces_263_a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1409642000 source:e:\code\acm\train\codeforces_263_b.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1409329775 source:e:\code\acm\train\hdu3642.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1409367477 source:e:\code\acm\train\hdu3255.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1409454105 source:e:\code\acm\train\hdu4862.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+
+1409460011 source:e:\code\acm\train\hack.cpp
+	<cstdio>
+	<set>
+
+1409467536 source:e:\code\acm\train\hdu4879.cpp
+	<cstdio>
+	<set>
+	<cstring>
+	<map>
+
+1409468523 source:e:\code\acm\train\codeforces_9_a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1409470130 source:e:\code\acm\train\codeforces_9_b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+
+1409471927 source:e:\code\acm\train\codeforces_9_c.cpp
+	<cstdio>
+	<cstring>
+
+1409473759 source:e:\code\acm\train\codeforces_9_d.cpp
+	<cstdio>
+	<cstring>
+
+1409475496 source:e:\code\acm\train\codeforces_9_e.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1409486295 source:e:\code\acm\train\bestcoder_7_b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1409488337 source:e:\code\acm\train\bestcoder_7_c.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+
+1409582881 source:e:\code\acm\train\codeforces_10_a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+
+1409588165 source:e:\code\acm\train\codeforces_10_b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+
+1409645345 source:e:\code\acm\train\codeforces_10_c.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+	<cmath>
+
+1409669085 source:e:\code\acm\postgraduate\2013\a.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1409671881 source:e:\code\acm\postgraduate\2013\c.cpp
+	<cstdio>
+	<cstring>
+
+1409672435 source:e:\code\acm\postgraduate\2013\d.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1409672709 source:e:\code\acm\postgraduate\2013\b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+
+1411142326 source:e:\code\acm\postgraduate\2013\f.cpp
+	<cstdio>
+	<cstring>
+	<queue>
+
+1409712959 source:e:\code\acm\train\codeforces_10_d.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+
+1409798450 source:e:\code\acm\train\codeforces_11_a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+
+1409799926 source:e:\code\acm\train\codeforces_11_b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+
+1410020842 source:e:\code\acm\train\codeforces_11_d.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+
+1410078912 source:e:\code\acm\competition\zoj_9_7\c.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<queue>
+
+1410082097 source:e:\code\acm\competition\zoj_9_7\e.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1410527114 source:e:\code\acm\train\ural\ural1106.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<queue>
+
+1410529159 source:e:\code\acm\train\codeforces_12_a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+
+1410530172 source:e:\code\acm\train\codeforces_12_b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+
+1410530757 source:e:\code\acm\train\codeforces_12_c.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+	<map>
+	<string>
+
+1410538496 source:e:\code\acm\train\codeforces_266_c.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+
+1410541843 source:e:\code\acm\train\codeforces_266_b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+	<cmath>
+
+1410589345 source:e:\code\acm\competition\hdu_9_13\1005.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<map>
+	<cstring>
+	<cstdio>
+
+1410698365 source:e:\code\acm\train\codeforces_12_d.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+	<set>
+	<stack>
+
+1410668761 source:e:\code\acm\competition\hdu_9_14\1005.cpp
+	<cstdio>
+	<cstring>
+
+1410677001 source:e:\code\acm\competition\hdu_9_14\1008.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1410676129 source:e:\code\acm\competition\hdu_9_14\1006.cpp
+	<cstdio>
+	<cstring>
+	<queue>
+
+1410678688 source:e:\code\acm\competition\hdu_9_14\1009.cpp
+	<cstdio>
+	<cstring>
+
+1410681635 source:e:\code\acm\competition\hdu_9_14\temp1009.cpp
+	<cstdio>
+	<cstring>
+
+1410853987 source:e:\code\acm\train\ural\ural1119.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+
+1412825360 source:e:\code\acm\train\ural\ural1128.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<queue>
+	<stack>
+
+1411025654 source:e:\code\acm\competition\hust_9_18\c.cpp
+	<cstdio>
+	<cstring>
+	<string>
+	<iostream>
+
+1411027373 source:e:\code\acm\competition\hust_9_18\g.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<cmath>
+
+1411369415 source:e:\code\acm\train\poj1067.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+
+1411804188 source:e:\code\acm\competition\hust_9_27\1004.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1412055601 source:e:\code\acm\train\ural\ural1086.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+
+1415068593 source:e:\code\acm\train\ural\ural1091.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+
+1412173442 source:e:\code\acm\train\poj1741.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<algorithm>
+
+1412175176 source:e:\code\acm\train\poj1987.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<algorithm>
+
+1412214822 source:e:\code\acm\train\poj2114.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<algorithm>
+
+1412768140 source:e:\code\acm\train\hdu4812.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<map>
+
+1412821272 source:e:\code\acm\train\hdu3710.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+
+1412912936 source:e:\code\acm\train\ural\ural1133.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<algorithm>
+
+1413006494 source:e:\code\acm\train\ural\ural1141.cpp
+	<cstdio>
+	<cstring>
+
+1413043466 source:e:\code\acm\train\ural\ural1204.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<algorithm>
+	<vector>
+
+1413080565 source:e:\code\acm\competition\mudanjiang\i.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+
+1413096709 source:e:\code\acm\competition\mudanjiang\k.cpp
+	<cstdio>
+	<cstring>
+
+1413254177 source:e:\code\acm\train\ural\ural1261.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1413289890 source:e:\code\acm\train\ural\ural1343.cpp
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1413341892 source:e:\code\acm\train\ural\ural1356.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+	<algorithm>
+	<vector>
+
+1413428663 source:e:\code\acm\train\ural\ural1430.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1413439138 source:e:\code\acm\competition\2012chengdu\k.cpp
+	<cstdio>
+	<cstring>
+
+1413458505 source:e:\code\acm\competition\2012chengdu\b.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+	<algorithm>
+
+1413464905 source:e:\code\acm\train\ural\ural1698.cpp
+	<cstdio>
+	<cstring>
+
+1413534296 source:e:\code\acm\train\codeforces_272_a.cpp
+	<cstdio>
+	<cstring>
+
+1413537189 source:e:\code\acm\train\codeforces_272_b.cpp
+	<cstdio>
+	<cstring>
+
+1413609234 source:e:\code\acm\competition\2013hangzhou\b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1413612199 source:e:\code\acm\competition\2013hangzhou\a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+
+1413618249 source:e:\code\acm\competition\2013hangzhou\i.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1413768961 source:e:\code\acm\competition\2013hangzhou\j.cpp
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<algorithm>
+	<vector>
+	<queue>
+	<set>
+	<map>
+	<string>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+
+1413700884 source:e:\code\acm\competition\2013changchun\b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1413692865 source:e:\code\acm\competition\2013changchun\g.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1413771614 source:e:\code\acm\train\hdu4779.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+	<vector>
+
+1413810990 source:e:\code\acm\train\vij1891.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<iostream>
+
+1413816774 source:e:\code\acm\train\ural\ural1136.cpp
+	<cstdio>
+	<cstring>
+
+1413968079 source:e:\code\acm\train\ural\ural1156.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+
+1413854125 source:e:\code\acm\train\poj3580.cpp
+	<cstdio>
+	<cstring>
+
+1413962757 source:e:\code\acm\train\ural\ural1145.cpp
+	<cstdio>
+	<cstring>
+	<queue>
+
+1413974493 source:e:\code\acm\train\ural\ural1162.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<queue>
+
+1413978152 source:e:\code\acm\train\ural\ural1176.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<algorithm>
+
+1413982322 source:e:\code\acm\train\ural\ural1182.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1414477876 source:e:\code\acm\train\codeforces_275_a.cpp
+	<cstdio>
+	<cstring>
+
+1414478910 source:e:\code\acm\train\codeforces_275_b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+
+1415176843 source:e:\code\acm\train\zoj3687.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<cmath>
+	<iostream>
+
+1414590253 source:e:\code\acm\train\zoj2836.cpp
+	<cstdio>
+	<cstring>
+	<cstring>
+
+1414597653 source:e:\code\acm\train\hdu4135.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+	<algorithm>
+
+1414759449 source:e:\code\acm\train\hdu2204.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<cmath>
+
+1414761225 source:e:\code\acm\train\codeforces_275_c.cpp
+	<vector>
+	<list>
+	<map>
+	<set>
+	<queue>
+	<stack>
+	<bitset>
+	<algorithm>
+	<numeric>
+	<utility>
+	<sstream>
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<cstring>
+
+1414946945 source:e:\code\acm\train\hdu3208.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+
+1414917023 source:e:\code\acm\competition\hust_11_2\f.cpp
+	<cstdio>
+	<cstring>
+
+1414922786 source:e:\code\acm\competition\hust_11_2\a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1414925241 source:e:\code\acm\competition\hust_11_2\c.cpp
+	<cstdio>
+	<cstring>
+
+1414997725 source:e:\code\acm\train\hdu2841.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1414999020 source:e:\code\acm\train\hdu1695.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1415002134 source:e:\code\acm\train\sgu476.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1415034732 source:e:\code\acm\train\hdu1796.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1415068975 source:e:\code\acm\train\ural\ural1091_rongchi.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+
+1415177283 source:e:\code\acm\train\zoj3233.cpp
+	<cstdio>
+	<cstring>
+
+1415085350 source:e:\code\acm\train\ural\ural1036.cpp
+	<cstdio>
+	<cstring>
+
+1415112130 source:e:\code\acm\train\poj2773.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+
+1415115554 source:e:\code\acm\train\poj2356.cpp
+	<cstdio>
+	<cstring>
+
+1415174648 source:e:\code\acm\train\hdu4407.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+	<algorithm>
+	<map>
+
+1415199514 source:e:\code\acm\train\codeforces_233_a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+
+1415258764 source:e:\code\acm\train\codeforces_bayan_d.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+	<map>
+
+1415261300 source:e:\code\acm\train\codeforces_276_a.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1415264413 source:e:\code\acm\train\codeforces_276_b.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+	<algorithm>
+
+1415265560 source:e:\code\acm\train\codeforces_268_a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+
+1415284821 source:e:\code\acm\train\codeforces_268_b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+	<map>
+
+1415287306 source:e:\code\acm\train\codeforces_265_a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+
+1415374916 source:e:\code\acm\train\codeforces_265_c.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+	<string>
+	<vector>
+
+1415376953 source:e:\code\acm\train\memsql_2.0_a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1415428639 source:e:\code\acm\competition\hust_11_8\k.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1415431054 source:e:\code\acm\competition\hust_11_8\b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+	<iostream>
+
+1415433814 source:e:\code\acm\competition\hust_11_8\h.cpp
+	<cstdio>
+	<cstring>
+	<map>
+	<algorithm>
+	<iostream>
+	<vector>
+
+1415513849 source:e:\code\acm\train\memsql_c.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+	<vector>
+	<queue>
+	<algorithm>
+
+1415519728 source:e:\code\acm\competition\hust_11_9\g.cpp
+	<cstdio>
+	<cstring>
+
+1415521228 source:e:\code\acm\competition\hust_11_9\a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1415522185 source:e:\code\acm\competition\hust_11_9\l.cpp
+	<cstdio>
+	<cstring>
+
+1415543702 source:e:\code\acm\train\memsql_2.0_c.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+
+1415608255 source:e:\code\acm\train\codeforces_253_b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1415629953 source:e:\code\acm\train\codeforces_243_b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1415633376 source:e:\code\acm\train\codeforces_strike_a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<map>
+
+1415718250 source:e:\code\acm\train\codeforces_277_a.cpp
+	<cstdio>
+	<cstring>
+
+1415719187 source:e:\code\acm\train\codeforces_277_b.cpp
+	<cstdio>
+	<cstring>
+
+1415723178 source:e:\code\acm\train\codeforces_277_c.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+
+1415807432 source:e:\code\acm\train\codeforces_277_d.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<vector>
+
+1415892324 source:e:\code\acm\train\codeforces_270_d.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<algorithm>
+
+1415894598 source:e:\code\acm\train\codeforces_247_c.cpp
+	<cstdio>
+	<cstring>
+
+1416036308 source:e:\code\acm\competition\hust_11_15\c.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+
+1416041483 source:e:\code\acm\competition\hust_11_15\j.cpp
+	<cstdio>
+	<cstring>
+	<map>
+	<algorithm>
+
+1416034494 source:e:\code\acm\competition\hust_11_15\h.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+
+1416239740 source:e:\code\acm\train\codeforces_277_5_a.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+	<vector>
+
+1416240372 source:e:\code\acm\train\codeforces_277_5_b.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+	<vector>
+
+1416241932 source:e:\code\acm\train\codeforces_277_5_c.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+
+1416322728 source:e:\code\acm\train\codeforces_277_5_d.cpp
+	<cstdio>
+	<cstring>
+	<algorithm>
+	<queue>
+	<iostream>
+	<vector>
+
+1416497044 source:e:\code\acm\train\train\std.cpp
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1417452489 source:e:\code\acm\train\ural\ural1198.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+

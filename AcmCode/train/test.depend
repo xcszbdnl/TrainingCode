@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1406101554 source:e:\code\acm\competition\hust_7_23\tempg.cpp
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<cmath>
+
