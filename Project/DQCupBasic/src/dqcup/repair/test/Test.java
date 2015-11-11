@@ -24,7 +24,6 @@ public class Test {
 			startTime = System.currentTimeMillis();
 			found = dr.repair("input/DB-easy.txt");
 			endTime = System.currentTimeMillis();
-
 			double findAccuracy = TestUtil.findAccuracy(truth, found);
 			double repairAccuracy = TestUtil.repairAccuracy(truth, found);
 			System.out.println("easy-Time:" + (endTime - startTime));

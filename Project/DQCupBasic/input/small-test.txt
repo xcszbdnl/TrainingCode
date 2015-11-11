@@ -1,0 +1,18 @@
+RUID:CUID:SSN:FNAME:MINIT:LNAME:STNUM:STADD:APMT:CITY:STATE:ZIP
+29963:57491:666766085:Macpherson:M:Naparst::PO Box 3607::Charlotte:NC:28279
+39075:9075:674708008:Bourland:T:Nukazawa:539:Ruona Ave:23a:Agana:GU:96929
+39883:9883:758047835:Magnolia:S:Sawita:880:Izora Avenue:0n5:Avondale-Goodyear:PA:45694
+31689:1689:372538844:Marcia:P:Rollin:583:Venner Ln:7x1:Winnisquam:NV:85011
+32503:2503:770260305:Feyerherm:D:Marylyn:488:Cendal Pkwy:3h0:Green Castle:VI:8l351
+33789:3789:116086304:Eisenstein:B:Stella:583:Venner Ln:1e7:Winnisquam:MN:85011
+38564:8564:615082771:Mariner:B:Maranelli:150:Aoumeur Rd:0a5:Phoenix:AZ:85011
+38700:8700:667700286:Junius:B:Colin:583:Venner Ln:7r0:Winnisquam:KY:85011
+39055:9055:381071111:Mallicoat:I:Matheus:583:Venner Ln:5i4:Winnisquam:MA:85011
+39891:9891:362853155:Siron:I:Scottt:693:Spotts Ln:3h8:Auberry:IN:S0362
+34695:4695:507842747:Michial:E:Pister:114:Habigand Street:6q5:Welch:VA:20871
+37265:7265:766656525:Romey:B:Hornbaker:114:Habigand Street:7q5:Welch:CT:20871
+39825:9825:148520378:Sonderhouse:M:Automne:114:Habigand Street:8l7:Welch:TX:20871
+39925:9925:138736031:Andreello:D:Couto:114:Habigand Street:8y0:Welch:UT:20871
+0:50000:000000000:Barber:V:Patrizius:145:Heisler St:4x6:Cleveland:OH:44134
+1:50000:000000000:Barber:V:Patrizius:145:Heisler St:4x6:Cleveland:OH:44135
+2:50000:000000000:Barber:V:Patrizius:145:Heisler St:4x6:Cleveland:OH:44135
