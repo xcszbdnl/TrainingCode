@@ -23,35 +23,39 @@ public class DatabaseRepairImpl implements DatabaseRepair {
 	public DatabaseRepairImpl() {
 		
 	}
-	@Override
 	public Set<RepairedCell> repair(String fileRoute) {
-		//Please implement your own repairing methods here.
-		clusterMaps =  new HashMap<String, LinkedList<Tuple> >();
-		result = new HashSet<RepairedCell>();
-		alreadyExist = new HashMap<Integer, String>();
-		rowMap = new HashMap<Tuple, Integer>();
 		tuples = DbFileReader.readFile(fileRoute);
-		cluster("CUID");
-		for (Entry<String, LinkedList<Tuple> > entry: clusterMaps.entrySet()) {
-			repairCuid(entry.getValue());
-		}
-		clusterMaps.clear();
-		RepairAccordingToName();
-		//checkError();
-		//getCorrect();
-		if (fileRoute.contains("easy")) {
-			getEasyTruth();
-		}
 		return result;
 	}
-	
+//	@Override
+//	public Set<RepairedCell> repair(String fileRoute) {
+//		//Please implement your own repairing methods here.
+//		clusterMaps =  new HashMap<String, LinkedList<Tuple> >();
+//		result = new HashSet<RepairedCell>();
+//		alreadyExist = new HashMap<Integer, String>();
+//		rowMap = new HashMap<Tuple, Integer>();
+//		tuples = DbFileReader.readFile(fileRoute);
+//		cluster("CUID");
+//		for (Entry<String, LinkedList<Tuple> > entry: clusterMaps.entrySet()) {
+//			repairCuid(entry.getValue());
+//		}
+//		clusterMaps.clear();
+//		RepairAccordingToName();
+//		//checkError();
+//		//getCorrect();
+//		if (fileRoute.contains("easy")) {
+//			getEasyTruth();
+//		}
+//		return result;
+//	}
+
 	private void getEasyTruth() {
 		String route = "input/Truth-easy.txt";
 		Set<RepairedCell> easyTruth = TestUtil.readTruth(route);
 		easyTruth.removeAll(result);
 		result.addAll(easyTruth);
-	}
-	
+	}	
+
 	private void getCorrect() {
 		String testRoute = "input/truth-not-found.txt";
 		Set<RepairedCell> truth = TestUtil.readTruth("input/Truth-easy.txt");
@@ -72,6 +76,7 @@ public class DatabaseRepairImpl implements DatabaseRepair {
 			}
 		}
 	}
+
 	private void RepairAccordingToName() {
 		for (Tuple cntTuple : tuples) {
 			String first_name = cntTuple.getValue("FNAME");
@@ -123,6 +128,7 @@ public class DatabaseRepairImpl implements DatabaseRepair {
 			}
 		}
 	}
+	
 	private void cluster(String columnName) {
 		int rowNumber = 0;
 		for (Tuple cntTuple: tuples) {
@@ -189,6 +195,7 @@ public class DatabaseRepairImpl implements DatabaseRepair {
 			alreadyExist.put(cntRow, column);
 		}
 	}
+	
 	private void checkError() {
 		for (Tuple cntTuple: tuples) {
 			if (!checkSSN(cntTuple.getValue("SSN"))) {
@@ -267,7 +274,6 @@ public class DatabaseRepairImpl implements DatabaseRepair {
 		String patterns = "\\d{1,4}";
 		return Pattern.matches(patterns, stnum);
 	}
-	
 	private boolean checkNumber(String number) {
 		String patterns = "\\d{1,4}";
 		return Pattern.matches(patterns, number);
