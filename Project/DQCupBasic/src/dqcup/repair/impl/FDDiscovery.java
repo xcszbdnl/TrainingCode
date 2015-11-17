@@ -149,9 +149,9 @@ public class FDDiscovery {
 			Partition partition_1 = before.getPartition(attribute_1);
 			Partition partition_2 = before.getPartition(attribute_2);
 			partition = partition_1.union(partition_2);
-			System.out.println(partition_1);
-			System.out.println(partition_2);
-			System.out.println(partition);
+//			System.out.println(partition_1);
+//			System.out.println(partition_2);
+//			System.out.println(partition);
 			next.setPartition(attribute, partition);
 		}
 		if (next.getCntLevel() == 1) {
@@ -233,6 +233,7 @@ public class FDDiscovery {
 		for (Entry<Integer, HashMap<String, Vector<Integer>>> entry : map.entrySet()) {
 			Attribute attribute = new Attribute(entry.getKey());
 			Partition partition = new Partition();
+			partition.setAttribute(attribute);
 			HashMap<String, Vector<Integer>> valueSet = entry.getValue();
 			for (Entry<String, Vector<Integer>> valueEntry:valueSet.entrySet()) {
 				Vector<Integer> vector = valueEntry.getValue();

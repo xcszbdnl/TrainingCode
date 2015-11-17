@@ -50,7 +50,7 @@ public class Level {
 	public void addAttribute(Attribute attribute) {
 		Attribute attributeRhs = new Attribute();
 		Partition partition = new Partition();
-		partition.setAttribute(attributeRhs);
+		partition.setAttribute(attribute);
 		attributeSet.add(attribute);
 		rhsMap.put(attribute, attributeRhs);
 		attributePartitionMap.put(attribute, partition);
@@ -66,6 +66,7 @@ public class Level {
 			}
 		}
 		attributeSet.add(cntAttribute);
+		partition.setAttribute(cntAttribute);
 		rhsMap.put(cntAttribute, attributeRhs);
 		attributePartitionMap.put(cntAttribute, partition);
 	}

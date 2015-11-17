@@ -9,7 +9,7 @@ import java.util.Vector;
 import dqcup.repair.Tuple;
 
 public class Partition {
-	public static final int ERROR = 0;
+	public static final int ERROR = 20;
 	private Attribute attribute;
 	private HashMap<Integer, Integer>  rowToSet;
 	private Vector<Vector<Integer> > attributePartition;
