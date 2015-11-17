@@ -19,20 +19,20 @@ public class Test {
 		Set<RepairedCell> found, truth;
 
 		DatabaseRepair dr = new DatabaseRepairImpl();
-		truth = TestUtil.readTruth("input/Truth-easy.txt");
-		if (truth.size() != 0) {
-			startTime = System.currentTimeMillis();
-			found = dr.repair("input/DB-easy.txt");
-			endTime = System.currentTimeMillis();
-			double findAccuracy = TestUtil.findAccuracy(truth, found);
-			double repairAccuracy = TestUtil.repairAccuracy(truth, found);
-			System.out.println("easy-Time:" + (endTime - startTime));
-			System.out.println("easy-Find Accuracy:" + findAccuracy);
-			System.out.println("easy-Repair Accuracy:" + repairAccuracy);
-			totalTime += (endTime - startTime);
-			avgFindAccuracy += findAccuracy;
-			avgRepairAccuracy += repairAccuracy;
-		}
+//		truth = TestUtil.readTruth("input/Truth-easy.txt");
+//		if (truth.size() != 0) {
+//			startTime = System.currentTimeMillis();
+//			found = dr.repair("input/DB-easy.txt");
+//			endTime = System.currentTimeMillis();
+//			double findAccuracy = TestUtil.findAccuracy(truth, found);
+//			double repairAccuracy = TestUtil.repairAccuracy(truth, found);
+//			System.out.println("easy-Time:" + (endTime - startTime));
+//			System.out.println("easy-Find Accuracy:" + findAccuracy);
+//			System.out.println("easy-Repair Accuracy:" + repairAccuracy);
+//			totalTime += (endTime - startTime);
+//			avgFindAccuracy += findAccuracy;
+//			avgRepairAccuracy += repairAccuracy;
+//		}
 
 		dr = new DatabaseRepairImpl();
 		truth = TestUtil.readTruth("input/Truth-normal.txt");
@@ -56,6 +56,22 @@ public class Test {
 		if (truth.size() != 0) {
 			startTime = System.currentTimeMillis();
 			found = dr.repair("input/DB-hard.txt");
+			endTime = System.currentTimeMillis();
+
+			double findAccuracy = TestUtil.findAccuracy(truth, found);
+			double repairAccuracy = TestUtil.repairAccuracy(truth, found);
+			System.out.println("hard-Time:" + (endTime - startTime));
+			System.out.println("hard-Find Accuracy:" + findAccuracy);
+			System.out.println("hard-Repair Accuracy:" + repairAccuracy);
+			totalTime += (endTime - startTime);
+			avgFindAccuracy += findAccuracy;
+			avgRepairAccuracy += repairAccuracy;
+		}
+		dr = new DatabaseRepairImpl();
+		truth = TestUtil.readTruth("input/small-truth.txt");
+		if (truth.size() != 0) {
+			startTime = System.currentTimeMillis();
+			found = dr.repair("input/small-test.txt");
 			endTime = System.currentTimeMillis();
 
 			double findAccuracy = TestUtil.findAccuracy(truth, found);

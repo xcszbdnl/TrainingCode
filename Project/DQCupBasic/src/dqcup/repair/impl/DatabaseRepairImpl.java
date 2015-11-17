@@ -6,8 +6,10 @@ import java.util.LinkedList;
 import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
+import java.util.Vector;
 import java.util.regex.Pattern;
 
+import dqcup.repair.ColumnNames;
 import dqcup.repair.DatabaseRepair;
 import dqcup.repair.DbFileReader;
 import dqcup.repair.RepairedCell;
@@ -18,15 +20,81 @@ public class DatabaseRepairImpl implements DatabaseRepair {
 	private HashMap<String, LinkedList<Tuple> > clusterMaps;
 	private HashSet<RepairedCell> result;
 	private LinkedList<Tuple> tuples;
-	private HashMap<Integer, String> alreadyExist;
+	private HashMap<Integer, String> alreadyExist;  //to check whether the row is repaired
 	private HashMap<Tuple, Integer> rowMap;
 	public DatabaseRepairImpl() {
 		
 	}
 	public Set<RepairedCell> repair(String fileRoute) {
 		tuples = DbFileReader.readFile(fileRoute);
+		result = new HashSet<RepairedCell>();
+		HashMap<Integer, String> columnNames = new HashMap<Integer, String>();
+		ColumnNames columns = tuples.get(0).getColumnNames();
+		int index = 0;
+		for (String column : columns) {
+			columnNames.put(index, column);
+			System.out.println(column + ":" + index);
+			index++;
+		}
+		Attribute.MaxAttributeSize = index;
+		Attribute.columnNames = columnNames;
+		FDDiscovery fd = new FDDiscovery();
+		fd.setTuples(tuples);
+		fd.findFd();
+		System.out.println(fd);
+//		for (Entry<Attribute, Attribute> entry: fd.getFdDiscovery().entrySet()) {
+//			repairColumn(fd, entry.getKey(), entry.getValue());
+//		}
 		return result;
 	}
+	private void repairColumn(FDDiscovery fd, Attribute left, Attribute right) {
+		int rowNumber = 0;
+		HashMap<Integer, String> columnValue = new HashMap<Integer, String>();
+		int columnIndex = right.getFirstAttribute();
+		String columnName = Attribute.columnNames.get(columnIndex);
+		for (Tuple tuple : tuples) {
+			String value = tuple.getValue(columnIndex);
+			columnValue.put(rowNumber, value);
+			rowNumber++;
+		}
+		Partition partition = fd.getPartition(left);
+		int setSize = partition.getAttributePartition().size();
+		for (int i = 0; i < setSize; i++) {
+			String maxCountString = "";
+			int maxCount = 0;
+			HashMap<String, Integer> count = new HashMap<String, Integer>();
+			Vector<Integer> cntSet = partition.getAttributePartition().get(i);
+			int size = cntSet.size();
+			for (int j = 0; j < size; j++) {
+				int row = cntSet.get(i);
+				String value = columnValue.get(row);
+				if (count.containsKey(value)) {
+					Integer cntCount = count.get(value);
+					cntCount++;
+					if (cntCount > maxCount) {
+						maxCount = cntCount;
+						maxCountString = value;
+					}
+				}
+				else {
+					count.put(value, 1);
+					if (1 > maxCount) {
+						maxCount = 1;
+						maxCountString = value;
+					}
+				}
+			}
+			for (int j = 0; j < size; j++) {
+				int row = cntSet.get(i);
+				String value = columnValue.get(row);
+				if (value != maxCountString) {
+					addCell(row, columnName, maxCountString);
+				}
+			}
+		}
+	}
+	
+	
 //	@Override
 //	public Set<RepairedCell> repair(String fileRoute) {
 //		//Please implement your own repairing methods here.
@@ -181,6 +249,11 @@ public class DatabaseRepairImpl implements DatabaseRepair {
 				}
 			}
 		}
+	}
+	
+	private void addCell(int row, String column, String correct) {
+		RepairedCell cntCell = new RepairedCell(row, column, correct);
+		result.add(cntCell);
 	}
 	
 	private void addCell(Tuple cntTuple, String column, String value) {
