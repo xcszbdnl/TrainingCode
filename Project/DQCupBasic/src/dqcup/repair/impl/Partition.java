@@ -9,7 +9,7 @@ import java.util.Vector;
 import dqcup.repair.Tuple;
 
 public class Partition {
-	public static final int ERROR = 20;
+	public static final int ERROR = 30;
 	private Attribute attribute;
 	private HashMap<Integer, Integer>  rowToSet;
 	private Vector<Vector<Integer> > attributePartition;
@@ -58,6 +58,8 @@ public class Partition {
 	public boolean almostDependency(Partition partition) {
 		int size_1 = attributePartition.size();
 		int size_2 = partition.getAttributePartition().size();
+		int plus_size = size_1 - size_2;
+		plus_size = plus_size < 0 ? -plus_size : plus_size;
 		if (size_1 - size_2 <= ERROR) {
 			return true;
 		}

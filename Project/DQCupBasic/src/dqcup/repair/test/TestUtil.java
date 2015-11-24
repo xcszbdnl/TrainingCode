@@ -97,6 +97,10 @@ public class TestUtil {
         }
       }
       double precision = tAndF*1.0/found.size(),recall = tAndF*1.0/truth.size();
+      System.out.println("found size:" + found.size());
+      System.out.println("truth size:" + truth.size());
+      System.out.println("tAndF:" + tAndF);
+      System.out.println("precision:" + precision + "  recall:" + recall);
       return 2*precision*recall/(precision+recall);
     }
     return 0;

@@ -5,6 +5,7 @@ import java.util.Map.Entry;
 
 public class Attribute {
 	public static HashMap<Integer,String> columnNames;  //bit loc to string names.
+	public static HashMap<String, Integer> columnIndex;
 	public static int MaxAttributeSize = 12;
 	private int attribute;
 	public Attribute() {

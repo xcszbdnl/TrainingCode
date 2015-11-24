@@ -1,0 +1,19 @@
+20984:55258:708418683:Fabbri:A:Curtice:888:Robia Rd:5y1:Washington:DC:20581
+20985:55258:708418683:Fabbri:A:Curtice:888:Robia Rd:5y1:Washington:DC:20581
+20986:55258:708418683:Fabbri:A:Curtice:888:Robia Rd:5y1:Washington:DC:20581
+31809:1809:761551136:Wojtecki:M:Blaisel:183:Robia Rd:5r4:Washington:DC:62536
+STADD CITY ------------->STNUM 
+24166:56052:422856244:Bonfante:N:Farzin:371:Digilio Ave:7l0:Kosrae:FM:96944
+24167:56052:422856244:Bonfante:N:Farzin:371:Digilio Ave:7l0:Kosrae:FM:96944
+24168:56052:422856244:Bonfante:N:Farzin:371:Digilio Ave:7l0:Kosrae:FM:96944
+24169:56052:422856244:Bonfante:N:Farzin:371:Digilio Ave:7l0:Kosrae:FM:96944
+24170:56052:422856244:Bonfante:N:Farzin:371:Digilio Ave:7l0:Kosrae:FM:96944
+38861:8861:350385354:Bonfante:X:Olejak:640:Wo Pkwy:0c2:Kosrae:FM:96944
+FNAME ZIP ------------->MINIT 
+24166:56052:422856244:Bonfante:N:Farzin:371:Digilio Ave:7l0:Kosrae:FM:96944
+24167:56052:422856244:Bonfante:N:Farzin:371:Digilio Ave:7l0:Kosrae:FM:96944
+24168:56052:422856244:Bonfante:N:Farzin:371:Digilio Ave:7l0:Kosrae:FM:96944
+24169:56052:422856244:Bonfante:N:Farzin:371:Digilio Ave:7l0:Kosrae:FM:96944
+24170:56052:422856244:Bonfante:N:Farzin:371:Digilio Ave:7l0:Kosrae:FM:96944
+38861:8861:350385354:Bonfante:X:Olejak:640:Wo Pkwy:0c2:Kosrae:FM:96944
+FNAME ZIP ------------->MINIT 
